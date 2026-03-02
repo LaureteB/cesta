@@ -50,7 +50,7 @@ nome:{
     color:"#000",
     fontSize: 36,
     lineHeight: 42,
-    fontWeight:"bold"
+    fontFamily:"MontserratBold"
 },
 fazenda:{
     fontSize: 16,
@@ -69,13 +69,13 @@ preco:{
     color:"#ff0000",
     fontWeight:"bold",
     fontSize: 26,
-    fontWeight: 46,
-    marginTop: 8,
-    fontWeight:"bolt",    
+    fontWeight: 32,
+    marginTop: 8, 
 },
 nomeFazenda:{
     fontSize: 16,
     lineHeight: 26,
     color:"#37aa41",
+    fontFamily:"MontserratRegular"
 },
 })
